@@ -1,0 +1,1019 @@
+{
+    "dis_videos": [
+        {
+            "dis_video_name": "tennis_offset_1.5_cut_24",
+            "models": {
+                "P910": {
+                    "quality_score": 39.494664672878635,
+                    "quality_score_std": 6.827435190554727,
+                    "quality_score_ci95": [
+                        13.381499876079642,
+                        13.381499876079642
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "cricket_cut_3_45",
+            "models": {
+                "P910": {
+                    "quality_score": 12.986879434765811,
+                    "quality_score_std": 3.696017272987228,
+                    "quality_score_ci95": [
+                        7.244046014364047,
+                        7.244046014364047
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "tennis_offset_-0.6_cut_24",
+            "models": {
+                "P910": {
+                    "quality_score": 48.597209632632,
+                    "quality_score_std": 5.448281367834209,
+                    "quality_score_ci95": [
+                        10.678413549700336,
+                        10.678413549700336
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "nfl_offset_1.5_cut_7_00",
+            "models": {
+                "P910": {
+                    "quality_score": 55.1893241707601,
+                    "quality_score_std": 6.3947771996103056,
+                    "quality_score_ci95": [
+                        12.533507520148214,
+                        12.533507520148214
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "cricket_offset_0.2_cut_3_45",
+            "models": {
+                "P910": {
+                    "quality_score": 27.22312955352765,
+                    "quality_score_std": 3.6468907938626183,
+                    "quality_score_ci95": [
+                        7.147760080338977,
+                        7.147760080338977
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "soccer_offset_-0.8_cut_2_25",
+            "models": {
+                "P910": {
+                    "quality_score": 41.0577756507874,
+                    "quality_score_std": 6.123997794747427,
+                    "quality_score_ci95": [
+                        12.002790717793166,
+                        12.002790717793166
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "tennis_offset_-1_cut_24",
+            "models": {
+                "P910": {
+                    "quality_score": 14.394546773646706,
+                    "quality_score_std": 3.7321235936784336,
+                    "quality_score_ci95": [
+                        7.314812958665982,
+                        7.314812958665982
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "soccer_cut_2_25",
+            "models": {
+                "P910": {
+                    "quality_score": 13.348682101737861,
+                    "quality_score_std": 4.2550516909279565,
+                    "quality_score_ci95": [
+                        8.339731112151158,
+                        8.339731112151158
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "tennis_offset_1_cut_24",
+            "models": {
+                "P910": {
+                    "quality_score": 53.54776523971747,
+                    "quality_score_std": 6.985427895744983,
+                    "quality_score_ci95": [
+                        13.691159258544335,
+                        13.691159258544335
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "cricket_offset_-1_cut_3_45",
+            "models": {
+                "P910": {
+                    "quality_score": 73.05877782396828,
+                    "quality_score_std": 4.4420747149228985,
+                    "quality_score_ci95": [
+                        8.706288758260284,
+                        8.706288758260284
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "nfl_offset_0.8_cut_7_00",
+            "models": {
+                "P910": {
+                    "quality_score": 38.86667250006823,
+                    "quality_score_std": 5.353311559493132,
+                    "quality_score_ci95": [
+                        10.49227652414416,
+                        10.49227652414416
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "cricket_offset_0.4_cut_3_45",
+            "models": {
+                "P910": {
+                    "quality_score": 50.76961882054362,
+                    "quality_score_std": 4.579621199064217,
+                    "quality_score_ci95": [
+                        8.975874365317903,
+                        8.975874365317903
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "nfl_offset_0.2_cut_7_00",
+            "models": {
+                "P910": {
+                    "quality_score": 22.14059179096764,
+                    "quality_score_std": 3.166711194822145,
+                    "quality_score_ci95": [
+                        6.206627273403611,
+                        6.206627273403611
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "cricket_offset_1_cut_3_45",
+            "models": {
+                "P910": {
+                    "quality_score": 66.41662316480412,
+                    "quality_score_std": 4.901096333734312,
+                    "quality_score_ci95": [
+                        9.605952770265901,
+                        9.605952770265901
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "newsreader_offset_-0.1_cut_5",
+            "models": {
+                "P910": {
+                    "quality_score": 9.167057659970453,
+                    "quality_score_std": 2.9910253492807963,
+                    "quality_score_ci95": [
+                        5.862290043576389,
+                        5.862290043576389
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "soccer_offset_-0.2_cut_2_25",
+            "models": {
+                "P910": {
+                    "quality_score": 13.857369066192152,
+                    "quality_score_std": 3.273172505252885,
+                    "quality_score_ci95": [
+                        6.415287183395444,
+                        6.415287183395444
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "newsreader_offset_0.1_cut_5",
+            "models": {
+                "P910": {
+                    "quality_score": 32.350214499620364,
+                    "quality_score_std": 4.862446503535196,
+                    "quality_score_ci95": [
+                        9.530200649068842,
+                        9.530200649068842
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "nfl_offset_-1.5_cut_7_00",
+            "models": {
+                "P910": {
+                    "quality_score": 51.87171724664787,
+                    "quality_score_std": 6.280691623243749,
+                    "quality_score_ci95": [
+                        12.309904353892819,
+                        12.309904353892819
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "nfl_offset_-0.6_cut_7_00",
+            "models": {
+                "P910": {
+                    "quality_score": 42.05318096808725,
+                    "quality_score_std": 5.537796705695416,
+                    "quality_score_ci95": [
+                        10.853860031294786,
+                        10.853860031294786
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "cricket_offset_0.8_cut_3_45",
+            "models": {
+                "P910": {
+                    "quality_score": 62.33916710055353,
+                    "quality_score_std": 4.910160279044179,
+                    "quality_score_ci95": [
+                        9.62371774051543,
+                        9.62371774051543
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "nfl_cut_7_00",
+            "models": {
+                "P910": {
+                    "quality_score": 10.821097283346074,
+                    "quality_score_std": 3.977368814003018,
+                    "quality_score_ci95": [
+                        7.795483780693355,
+                        7.795483780693355
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "newsreader_cut_5",
+            "models": {
+                "P910": {
+                    "quality_score": 11.09216119191072,
+                    "quality_score_std": 2.6609471207459436,
+                    "quality_score_ci95": [
+                        5.215349918777219,
+                        5.215349918777219
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "tennis_offset_0.6_cut_24",
+            "models": {
+                "P910": {
+                    "quality_score": 44.89736511109591,
+                    "quality_score_std": 3.8132959655457763,
+                    "quality_score_ci95": [
+                        7.473907560631099,
+                        7.473907560631099
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "nfl_offset_0.6_cut_7_00",
+            "models": {
+                "P910": {
+                    "quality_score": 35.81934536397489,
+                    "quality_score_std": 3.500423512750534,
+                    "quality_score_ci95": [
+                        6.860690068050537,
+                        6.860690068050537
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "tennis_cut_24",
+            "models": {
+                "P910": {
+                    "quality_score": 12.9003894950243,
+                    "quality_score_std": 2.303204919320538,
+                    "quality_score_ci95": [
+                        4.514189513671481,
+                        4.514189513671481
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "soccer_offset_-2.5_cut_2_25",
+            "models": {
+                "P910": {
+                    "quality_score": 83.78789712077861,
+                    "quality_score_std": 3.2488138350871014,
+                    "quality_score_ci95": [
+                        6.367545164217315,
+                        6.367545164217315
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "newsreader_offset_-0.05_cut_5",
+            "models": {
+                "P910": {
+                    "quality_score": 7.86997981417104,
+                    "quality_score_std": 1.6496501248019069,
+                    "quality_score_ci95": [
+                        3.2332482586067455,
+                        3.2332482586067455
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "newsreader_offset_0.2_cut_5",
+            "models": {
+                "P910": {
+                    "quality_score": 52.19395071442841,
+                    "quality_score_std": 5.603976644860064,
+                    "quality_score_ci95": [
+                        10.983570064859931,
+                        10.983570064859931
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "cricket_offset_-0.4_cut_3_45",
+            "models": {
+                "P910": {
+                    "quality_score": 38.286650766438655,
+                    "quality_score_std": 4.322556762626112,
+                    "quality_score_ci95": [
+                        8.472038352476675,
+                        8.472038352476675
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "newsreader_offset_0.05_cut_5",
+            "models": {
+                "P910": {
+                    "quality_score": 18.368668908781352,
+                    "quality_score_std": 3.2797834480735837,
+                    "quality_score_ci95": [
+                        6.428244366886301,
+                        6.428244366886301
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "tennis_offset_0.2_cut_24",
+            "models": {
+                "P910": {
+                    "quality_score": 10.403893492091619,
+                    "quality_score_std": 4.29097364724914,
+                    "quality_score_ci95": [
+                        8.410136709662424,
+                        8.410136709662424
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "tennis_offset_-0.2_cut_24",
+            "models": {
+                "P910": {
+                    "quality_score": 29.39169722790091,
+                    "quality_score_std": 3.7942674639258804,
+                    "quality_score_ci95": [
+                        7.436612458596168,
+                        7.436612458596168
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "soccer_offset_0.4_cut_2_25",
+            "models": {
+                "P910": {
+                    "quality_score": 31.898196956277715,
+                    "quality_score_std": 4.950725043292563,
+                    "quality_score_ci95": [
+                        9.70322305585169,
+                        9.70322305585169
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "tennis_offset_-1.5_cut_24",
+            "models": {
+                "P910": {
+                    "quality_score": 53.56650083978701,
+                    "quality_score_std": 4.772491838789041,
+                    "quality_score_ci95": [
+                        9.35389310435297,
+                        9.35389310435297
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "cricket_offset_-0.2_cut_3_45",
+            "models": {
+                "P910": {
+                    "quality_score": 16.975305988073973,
+                    "quality_score_std": 4.310501464810488,
+                    "quality_score_ci95": [
+                        8.448410450969964,
+                        8.448410450969964
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "soccer_offset_2.5_cut_2_25",
+            "models": {
+                "P910": {
+                    "quality_score": 91.86170527899412,
+                    "quality_score_std": 2.8858935029395503,
+                    "quality_score_ci95": [
+                        5.656235830021401,
+                        5.656235830021401
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "cricket_offset_-0.8_cut_3_45",
+            "models": {
+                "P910": {
+                    "quality_score": 68.87270846768963,
+                    "quality_score_std": 2.841862051725375,
+                    "quality_score_ci95": [
+                        5.569935946899665,
+                        5.569935946899665
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "soccer_offset_-0.4_cut_2_25",
+            "models": {
+                "P910": {
+                    "quality_score": 24.558881311160135,
+                    "quality_score_std": 5.234424380079827,
+                    "quality_score_ci95": [
+                        10.259262407981257,
+                        10.259262407981257
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "newsreader_offset_-0.2_cut_5",
+            "models": {
+                "P910": {
+                    "quality_score": 11.227435729636742,
+                    "quality_score_std": 2.700588189302562,
+                    "quality_score_ci95": [
+                        5.293044827505449,
+                        5.293044827505449
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "soccer_offset_0.8_cut_2_25",
+            "models": {
+                "P910": {
+                    "quality_score": 52.296950659631655,
+                    "quality_score_std": 4.920158174928592,
+                    "quality_score_ci95": [
+                        9.643313216533043,
+                        9.643313216533043
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "nfl_offset_-0.8_cut_7_00",
+            "models": {
+                "P910": {
+                    "quality_score": 39.67052029768466,
+                    "quality_score_std": 4.201051671420599,
+                    "quality_score_ci95": [
+                        8.233893233917517,
+                        8.233893233917517
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "newsreader_offset_0.4_cut_5",
+            "models": {
+                "P910": {
+                    "quality_score": 77.99914672453342,
+                    "quality_score_std": 4.41618495759483,
+                    "quality_score_ci95": [
+                        8.655545869487563,
+                        8.655545869487563
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "soccer_offset_0.2_cut_2_25",
+            "models": {
+                "P910": {
+                    "quality_score": 25.16923846769689,
+                    "quality_score_std": 4.384298348722103,
+                    "quality_score_ci95": [
+                        8.593049391561372,
+                        8.593049391561372
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "nfl_offset_-0.2_cut_7_00",
+            "models": {
+                "P910": {
+                    "quality_score": 13.605028941869204,
+                    "quality_score_std": 2.970866155354634,
+                    "quality_score_ci95": [
+                        5.822778829848868,
+                        5.822778829848868
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "newsreader_offset_-0.4_cut_5",
+            "models": {
+                "P910": {
+                    "quality_score": 49.11204212446948,
+                    "quality_score_std": 6.053966033823709,
+                    "quality_score_ci95": [
+                        11.865531267653116,
+                        11.865531267653116
+                    ]
+                }
+            }
+        }
+    ],
+    "observers": [
+        {
+            "observer": "1",
+            "models": {
+                "P910": {
+                    "observer_bias": -6.4083939144294275,
+                    "observer_bias_std": 1.7144620454944464,
+                    "observer_bias_ci95": [
+                        3.360277030687295,
+                        3.360277030687295
+                    ],
+                    "observer_inconsistency": 11.50096103570676,
+                    "observer_inconsistency_std": 1.212307738562466,
+                    "observer_inconsistency_ci95": [
+                        1.9616329318668504,
+                        2.9847618856083833
+                    ],
+                    "observer_scores_mean": 30.955555555555556,
+                    "observer_scores_std": 24.963044290448902
+                }
+            }
+        },
+        {
+            "observer": "10",
+            "models": {
+                "P910": {
+                    "observer_bias": 12.836050530015012,
+                    "observer_bias_std": 3.2622974462712615,
+                    "observer_bias_ci95": [
+                        6.3939725027938215,
+                        6.3939725027938215
+                    ],
+                    "observer_inconsistency": 21.884156558059516,
+                    "observer_inconsistency_std": 2.3067926465105497,
+                    "observer_inconsistency_ci95": [
+                        3.7326169575863957,
+                        5.679438108727475
+                    ],
+                    "observer_scores_mean": 50.2,
+                    "observer_scores_std": 33.654189106921656
+                }
+            }
+        },
+        {
+            "observer": "11",
+            "models": {
+                "P910": {
+                    "observer_bias": -13.852838358873875,
+                    "observer_bias_std": 3.2585314493667514,
+                    "observer_bias_ci95": [
+                        6.386591299500858,
+                        6.386591299500858
+                    ],
+                    "observer_inconsistency": 21.858893482814906,
+                    "observer_inconsistency_std": 2.3041296845637946,
+                    "observer_inconsistency_ci95": [
+                        3.728308023732416,
+                        5.672881764099468
+                    ],
+                    "observer_scores_mean": 23.511111111111113,
+                    "observer_scores_std": 27.192010446062376
+                }
+            }
+        },
+        {
+            "observer": "12",
+            "models": {
+                "P910": {
+                    "observer_bias": -12.830616136651653,
+                    "observer_bias_std": 1.734237627759692,
+                    "observer_bias_ci95": [
+                        3.399036380903886,
+                        3.399036380903886
+                    ],
+                    "observer_inconsistency": 11.633619674425942,
+                    "observer_inconsistency_std": 1.226291186733688,
+                    "observer_inconsistency_ci95": [
+                        1.9842595239925216,
+                        3.0191898301441826
+                    ],
+                    "observer_scores_mean": 24.533333333333335,
+                    "observer_scores_std": 21.460661685977907
+                }
+            }
+        },
+        {
+            "observer": "13",
+            "models": {
+                "P910": {
+                    "observer_bias": 8.458272752237235,
+                    "observer_bias_std": 1.7597995918853282,
+                    "observer_bias_ci95": [
+                        3.4491368081115676,
+                        3.4491368081115676
+                    ],
+                    "observer_inconsistency": 11.805094542695938,
+                    "observer_inconsistency_std": 1.2443662250670613,
+                    "observer_inconsistency_ci95": [
+                        2.0135067101660624,
+                        3.063691472186356
+                    ],
+                    "observer_scores_mean": 45.82222222222222,
+                    "observer_scores_std": 27.481136066512477
+                }
+            }
+        },
+        {
+            "observer": "14",
+            "models": {
+                "P910": {
+                    "observer_bias": 5.658272752237239,
+                    "observer_bias_std": 2.7251134814809217,
+                    "observer_bias_ci95": [
+                        5.341113419163347,
+                        5.341113419163347
+                    ],
+                    "observer_inconsistency": 18.280616972977363,
+                    "observer_inconsistency_std": 1.926946222227101,
+                    "observer_inconsistency_ci95": [
+                        3.1179881540075858,
+                        4.74423733955338
+                    ],
+                    "observer_scores_mean": 43.022222222222226,
+                    "observer_scores_std": 31.56755640343343
+                }
+            }
+        },
+        {
+            "observer": "15",
+            "models": {
+                "P910": {
+                    "observer_bias": -1.4972828033183176,
+                    "observer_bias_std": 3.3306729920250624,
+                    "observer_bias_ci95": [
+                        6.527985837449441,
+                        6.527985837449441
+                    ],
+                    "observer_inconsistency": 22.342833662971955,
+                    "observer_inconsistency_std": 2.355141458587272,
+                    "observer_inconsistency_ci95": [
+                        3.8108500818701954,
+                        5.798475286254937
+                    ],
+                    "observer_scores_mean": 35.86666666666667,
+                    "observer_scores_std": 34.90087550636963
+                }
+            }
+        },
+        {
+            "observer": "18",
+            "models": {
+                "P910": {
+                    "observer_bias": 9.347161641126124,
+                    "observer_bias_std": 3.7404076972418046,
+                    "observer_bias_ci95": [
+                        7.331049470286047,
+                        7.331049470286047
+                    ],
+                    "observer_inconsistency": 25.091417623788388,
+                    "observer_inconsistency_std": 2.644867647092945,
+                    "observer_inconsistency_ci95": [
+                        4.279655497069761,
+                        6.5117955575061
+                    ],
+                    "observer_scores_mean": 46.71111111111111,
+                    "observer_scores_std": 31.611265377479466
+                }
+            }
+        },
+        {
+            "observer": "19",
+            "models": {
+                "P910": {
+                    "observer_bias": -1.9639494699849844,
+                    "observer_bias_std": 2.97643387716072,
+                    "observer_bias_ci95": [
+                        5.833691341879925,
+                        5.833691341879925
+                    ],
+                    "observer_inconsistency": 19.966525439593894,
+                    "observer_inconsistency_std": 2.104656578255623,
+                    "observer_inconsistency_ci95": [
+                        3.4055409557222034,
+                        5.181769065655108
+                    ],
+                    "observer_scores_mean": 35.4,
+                    "observer_scores_std": 31.15937526117407
+                }
+            }
+        },
+        {
+            "observer": "2",
+            "models": {
+                "P910": {
+                    "observer_bias": -3.7417272477627637,
+                    "observer_bias_std": 2.806744013874498,
+                    "observer_bias_ci95": [
+                        5.501105997433461,
+                        5.501105997433461
+                    ],
+                    "observer_inconsistency": 18.828211231391965,
+                    "observer_inconsistency_std": 1.9846677251983404,
+                    "observer_inconsistency_ci95": [
+                        3.2113872123360427,
+                        4.88635054785132
+                    ],
+                    "observer_scores_mean": 33.62222222222222,
+                    "observer_scores_std": 31.963374101471473
+                }
+            }
+        },
+        {
+            "observer": "20",
+            "models": {
+                "P910": {
+                    "observer_bias": 18.692817707492498,
+                    "observer_bias_std": 3.332555086897231,
+                    "observer_bias_ci95": [
+                        6.531674668115096,
+                        6.531674668115096
+                    ],
+                    "observer_inconsistency": 22.105669632856703,
+                    "observer_inconsistency_std": 2.3564723005691603,
+                    "observer_inconsistency_ci95": [
+                        3.8053971470474726,
+                        5.818204556366083
+                    ],
+                    "observer_scores_mean": 54.81818181818182,
+                    "observer_scores_std": 19.37110398045211
+                }
+            }
+        },
+        {
+            "observer": "21",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.3471616411261265,
+                    "observer_bias_std": 2.727065685297569,
+                    "observer_bias_ci95": [
+                        5.3449396605558235,
+                        5.3449396605558235
+                    ],
+                    "observer_inconsistency": 18.293712754297232,
+                    "observer_inconsistency_std": 1.9283266387526032,
+                    "observer_inconsistency_ci95": [
+                        3.1202218035109466,
+                        4.7476359937027555
+                    ],
+                    "observer_scores_mean": 37.71111111111111,
+                    "observer_scores_std": 25.19314035581222
+                }
+            }
+        },
+        {
+            "observer": "3",
+            "models": {
+                "P910": {
+                    "observer_bias": -15.097282803318322,
+                    "observer_bias_std": 3.6243693891394106,
+                    "observer_bias_ci95": [
+                        7.103619027937679,
+                        7.103619027937679
+                    ],
+                    "observer_inconsistency": 24.313008989055337,
+                    "observer_inconsistency_std": 2.562816172510243,
+                    "observer_inconsistency_ci95": [
+                        4.14688815635787,
+                        6.309780750468117
+                    ],
+                    "observer_scores_mean": 22.266666666666666,
+                    "observer_scores_std": 30.936781417019528
+                }
+            }
+        },
+        {
+            "observer": "4",
+            "models": {
+                "P910": {
+                    "observer_bias": -16.98617169220721,
+                    "observer_bias_std": 1.8575829807352253,
+                    "observer_bias_ci95": [
+                        3.640788338921812,
+                        3.640788338921812
+                    ],
+                    "observer_inconsistency": 12.461045456311934,
+                    "observer_inconsistency_std": 1.3135095222493076,
+                    "observer_inconsistency_ci95": [
+                        2.12538735299603,
+                        3.233925705631066
+                    ],
+                    "observer_scores_mean": 20.377777777777776,
+                    "observer_scores_std": 25.041555586122026
+                }
+            }
+        },
+        {
+            "observer": "5",
+            "models": {
+                "P910": {
+                    "observer_bias": 3.569383863348349,
+                    "observer_bias_std": 3.3949086980680576,
+                    "observer_bias_ci95": [
+                        6.65388525186547,
+                        6.65388525186547
+                    ],
+                    "observer_inconsistency": 22.773739878856446,
+                    "observer_inconsistency_std": 2.4005629619346553,
+                    "observer_inconsistency_ci95": [
+                        3.8843465332537646,
+                        5.910305284239512
+                    ],
+                    "observer_scores_mean": 40.93333333333333,
+                    "observer_scores_std": 36.96809435175148
+                }
+            }
+        },
+        {
+            "observer": "50",
+            "models": {
+                "P910": {
+                    "observer_bias": -8.763949469984986,
+                    "observer_bias_std": 2.74563118384787,
+                    "observer_bias_ci95": [
+                        5.381327295094471,
+                        5.381327295094471
+                    ],
+                    "observer_inconsistency": 18.418253904681176,
+                    "observer_inconsistency_std": 1.9414544287986473,
+                    "observer_inconsistency_ci95": [
+                        3.1414638563452484,
+                        4.7799572647427775
+                    ],
+                    "observer_scores_mean": 28.6,
+                    "observer_scores_std": 32.63426964948894
+                }
+            }
+        },
+        {
+            "observer": "6",
+            "models": {
+                "P910": {
+                    "observer_bias": 3.48049497445946,
+                    "observer_bias_std": 4.318071476248828,
+                    "observer_bias_ci95": [
+                        8.463247370588652,
+                        8.463247370588652
+                    ],
+                    "observer_inconsistency": 28.966504057785748,
+                    "observer_inconsistency_std": 3.0533376224977946,
+                    "observer_inconsistency_ci95": [
+                        4.940600016328588,
+                        7.517468931733184
+                    ],
+                    "observer_scores_mean": 40.84444444444444,
+                    "observer_scores_std": 34.874349412047536
+                }
+            }
+        },
+        {
+            "observer": "7",
+            "models": {
+                "P910": {
+                    "observer_bias": 6.502717196681684,
+                    "observer_bias_std": 3.0210850481752978,
+                    "observer_bias_ci95": [
+                        5.921205851021656,
+                        5.921205851021656
+                    ],
+                    "observer_inconsistency": 20.26605460058457,
+                    "observer_inconsistency_std": 2.1362297240453114,
+                    "observer_inconsistency_ci95": [
+                        3.4566294051508692,
+                        5.259503719357314
+                    ],
+                    "observer_scores_mean": 43.86666666666667,
+                    "observer_scores_std": 23.414715221178515
+                }
+            }
+        },
+        {
+            "observer": "8",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.23605053001501525,
+                    "observer_bias_std": 3.606815943542464,
+                    "observer_bias_ci95": [
+                        7.069214976705487,
+                        7.069214976705487
+                    ],
+                    "observer_inconsistency": 24.19525689627297,
+                    "observer_inconsistency_std": 2.5504040122373555,
+                    "observer_inconsistency_ci95": [
+                        4.126804062317294,
+                        6.279221394828509
+                    ],
+                    "observer_scores_mean": 37.6,
+                    "observer_scores_std": 37.418593120414236
+                }
+            }
+        },
+        {
+            "observer": "9",
+            "models": {
+                "P910": {
+                    "observer_bias": 12.013828307792792,
+                    "observer_bias_std": 2.774897897054669,
+                    "observer_bias_ci95": [
+                        5.4386888823112685,
+                        5.4386888823112685
+                    ],
+                    "observer_inconsistency": 18.614580985306358,
+                    "observer_inconsistency_std": 1.9621491201190109,
+                    "observer_inconsistency_ci95": [
+                        3.1749498985617164,
+                        4.830908623115656
+                    ],
+                    "observer_scores_mean": 49.37777777777778,
+                    "observer_scores_std": 28.3166922808508
+                }
+            }
+        }
+    ],
+    "stats": {
+        "models": {
+            "P910": {
+                "aic": 8.920611731452432,
+                "bic": 9.37457063904986
+            }
+        }
+    }
+}
